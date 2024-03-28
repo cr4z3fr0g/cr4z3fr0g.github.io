@@ -1,0 +1,8 @@
+baseURL: http://example.org/
+languageCode: en-us
+title: My New Hugo Site
+theme: "PaperMod"
+
+params:
+  utterances:
+   - repo: "cr4z3fr0g/cr4z3fr0g.github.io"
