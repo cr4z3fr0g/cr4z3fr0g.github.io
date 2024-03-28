@@ -1,0 +1,8 @@
+module:
+  noVendor: 
+  vendorClosest: true
+  proxy: direct
+  noProxy: none
+  private: *.*
+  workspace: off
+  replacements: 
