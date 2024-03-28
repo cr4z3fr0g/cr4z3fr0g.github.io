@@ -1,0 +1,6 @@
+module:
+  imports:
+    - path: github.com/hugomods/utterances
+  hugoVersion:
+    - min: "0.110.0"
+
